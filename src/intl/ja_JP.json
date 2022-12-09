@@ -1,0 +1,9 @@
+{
+  "zimbra-zimlet-custom-mark": {
+    "title": "カスタムマーク"
+  },
+  "zimlet": {
+    "description": "メールサポート",
+    "label": "メールサポート"
+  }
+}

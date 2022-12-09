@@ -1,0 +1,9 @@
+{
+  "zimbra-zimlet-custom-mark": {
+    "title": "Custom Mark"
+  },
+  "zimlet": {
+    "description": "Custom Mark",
+    "label": "Custom Mark"
+  }
+}

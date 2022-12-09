@@ -1,0 +1,10 @@
+!package-lock.json
+**/node_modules
+**/build
+**/pkg
+.DS_Store
+tmp
+/.tmp*
+*.log
+dist
+dist-packages
