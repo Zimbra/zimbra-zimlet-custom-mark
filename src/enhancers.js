@@ -9,6 +9,6 @@ import { withZimletIntlWrapper } from '@zimbra-client/enhancers';
  *
  */
 export const withIntl = () =>
-	withZimletIntlWrapper({
-		importFn: locale => import(/* webpackMode: "eager" */ `./intl/${locale}.json`)
-	});
+  withZimletIntlWrapper({
+    importFn: locale => import(/* webpackMode: "eager" */ `./intl/${locale}.json`)
+  });

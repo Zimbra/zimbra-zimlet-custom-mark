@@ -1,4 +1,4 @@
-# zimbra-zimlet-custom-mark
+# zimbra-zimlet-mail-sender
 
 ## CLI Commands
 

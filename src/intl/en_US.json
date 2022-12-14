@@ -1,9 +1,11 @@
 {
-  "zimbra-zimlet-custom-mark": {
-    "title": "Custom Mark"
+  "zimbra-zimlet-mail-sender": {
+    "country": "Country name: Japan",
+    "detail": "This email was sent from Japan",
+    "title": "Mail Sender"
   },
   "zimlet": {
-    "description": "Custom Mark",
-    "label": "Custom Mark"
+    "description": "Mail Sender",
+    "label": "Mail Sender"
   }
 }
